@@ -35,6 +35,12 @@ build/
 ### VS Code ###
 .vscode/
 
+### Node.js ###
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
 ### Mac OS ###
 .DS_Store
 
